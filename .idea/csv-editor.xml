@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/cases_for_students.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/known_contacts.csv">
           <value>
             <Attribute>
@@ -17,7 +24,28 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/known_contacts_for_students.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/master_cases.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/non_infected_contacts.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/non_infected_contacts_for_students.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
