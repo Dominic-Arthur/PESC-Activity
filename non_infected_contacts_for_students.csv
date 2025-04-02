@@ -1,74 +1,25 @@
 Contact ID,Data-Zone
-C-503,DZ-1
-C-35,DZ-7
-C-39,DZ-2
-C-353,DZ-1
-C-846,DZ-10
-C-574,DZ-2
-C-114,DZ-16
-C-189,DZ-7
-C-921,DZ-8
-C-783,DZ-15
-C-466,DZ-6
-C-901,DZ-17
-C-174,DZ-4
-C-395,DZ-18
-C-677,DZ-18
-C-821,DZ-15
-C-915,DZ-7
-C-653,DZ-15
-C-952,DZ-13
-C-139,DZ-6
-C-425,DZ-3
-C-490,DZ-3
-C-533,DZ-13
-C-766,DZ-11
-C-502,DZ-13
-C-872,DZ-13
-C-33,DZ-14
-C-628,DZ-1
-C-938,DZ-3
-C-957,DZ-1
-C-617,DZ-12
-C-433,DZ-10
-C-803,DZ-3
-C-572,DZ-7
-C-422,DZ-6
-C-287,DZ-6
-C-713,DZ-17
-C-313,DZ-14
-C-848,DZ-4
-C-273,DZ-13
-C-805,DZ-5
-C-177,DZ-8
-C-244,DZ-14
-C-662,DZ-7
-C-608,DZ-2
-C-436,DZ-14
-C-528,DZ-17
-C-303,DZ-3
-C-105,DZ-1
-C-813,DZ-17
-C-558,DZ-0
-C-418,DZ-2
-C-649,DZ-7
-C-972,DZ-5
-C-895,DZ-13
-C-823,DZ-15
-C-736,DZ-15
-C-523,DZ-6
-C-531,DZ-12
-C-661,DZ-1
-C-330,DZ-5
-C-136,DZ-12
-C-459,DZ-0
-C-361,DZ-12
-C-155,DZ-8
-C-784,DZ-14
-C-62,DZ-9
-C-612,DZ-13
-C-671,DZ-17
-C-910,DZ-15
-C-102,DZ-4
-C-949,DZ-6
-C-317,DZ-9
+Contact ID,"0     C-503
+1      C-35
+2      C-39
+3     C-353
+4     C-846
+      ...  
+68    C-671
+69    C-910
+70    C-102
+71    C-949
+72    C-317
+Name: Contact ID, Length: 73, dtype: object"
+Data-Zone,"0      DZ-1
+1      DZ-7
+2      DZ-2
+3      DZ-1
+4     DZ-10
+      ...  
+68    DZ-17
+69    DZ-15
+70     DZ-4
+71     DZ-6
+72     DZ-9
+Name: Data-Zone, Length: 73, dtype: object"
